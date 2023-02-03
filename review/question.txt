@@ -1,0 +1,9 @@
+Write down a program which will work as a calculator:
+1. enter 1 for adding two values
+2. enter 2 for substracting two values
+3. enter 3 for multiply two values
+4. enter 4 for dividing two values
+5. enter 5 for comparing two values
+6. enter 6 to add 5 with each values 
+7. enter 7 to substract 5 from each values.
+
